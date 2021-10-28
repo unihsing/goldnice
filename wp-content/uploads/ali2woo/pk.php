@@ -1,0 +1,1 @@
+<?php function a2w_plugin_key(){return "3TyMwPq7b9a0GPHXo32X8xrgBcMSSi6n";}
