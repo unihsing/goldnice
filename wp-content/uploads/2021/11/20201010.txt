@@ -1,0 +1,211 @@
+--------------------------------info[18:54:58]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.23 - 2020/09/01
+
+ 
+--------------------------------无法连接到远程服务器[18:55:17]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:10809
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 v2rayN.Handler.SpeedtestHandler.GetRealPingTime(String url, WebProxy webProxy, Int32& responseTime)
+
+ 
+--------------------------------info[18:55:46]--------------------------------
+System.Exception: v2rayN start up v2rayN - V3.24 - 2020/10/06
+
+ 
+--------------------------------无法连接到远程服务器[18:56:02]--------------------------------
+System.Net.WebException: 无法连接到远程服务器 ---> System.Net.Sockets.SocketException: 由于目标计算机积极拒绝，无法连接。 127.0.0.1:10809
+   在 System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   在 System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.HttpWebRequest.GetResponse()
+   在 v2rayN.Handler.SpeedtestHandler.GetRealPingTime(String url, WebProxy webProxy, Int32& responseTime)
+
+ 
+--------------------------------远程服务器返回错误: (403) 已禁止。[18:58:41]--------------------------------
+System.Net.WebException: 远程服务器返回错误: (403) 已禁止。
+   在 v2rayN.Handler.DownloadHandle.Ws_DownloadStringCompleted(Object sender, DownloadStringCompletedEventArgs e)
+
+ 
+--------------------------------info[18:59:44]--------------------------------
+System.Exception: Webserver prefixes http://*:10810/pac/
+
+ 
+--------------------------------info[18:59:44]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[18:59:44]--------------------------------
+System.Exception: Webserver running...
+
+ 
+--------------------------------info[18:59:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[18:59:45]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[18:59:57]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:00:28]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:02:06]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:06:49]--------------------------------
+System.Exception: Webserver at *
+
+ 
+--------------------------------info[19:09:04]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:11:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:11:16]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:11:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:11:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:14:05]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:16:03]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:19:26]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:19:34]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:31]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:35]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:35]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:35]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:36]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:44]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:46]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:47]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:54]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:58]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:58]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:58]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[19:59:59]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:17]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:18]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:21]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:22]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
+--------------------------------info[20:47:26]--------------------------------
+System.Exception: Webserver Request 127.0.0.1
+
+ 
